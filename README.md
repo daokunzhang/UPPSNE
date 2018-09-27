@@ -6,7 +6,7 @@ Authors: Daokun Zhang, Jie Yin, Xingquan Zhu and Chengqi Zhang
 
 Contact: Daokun Zhang (daokunzhang2015@gmail.com)
 
-This is the updated implenmentation. Different from the original version trained by gradient descent, this version is trained by stochastic gradient descent, which is more effient.
+This is the updated implenmentation. Different from the original version trained by gradient descent, this version is trained by stochastic gradient descent, which is more efficient.
 
 The model is trained as follows:
 
