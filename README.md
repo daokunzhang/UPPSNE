@@ -93,11 +93,11 @@ The options of UPPSNE are as follows:
 If you find this project is useful, please cite this paper:
 
 	@inproceedings{zhanga2017user,
-  		title={User profile preserving social network embedding},
-  		author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
-  		booktitle={IJCAI},
-  		pages={3378--3384},
-  		year={2017}
+  	    title={User profile preserving social network embedding},
+  	    author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
+  	    booktitle={IJCAI},
+  	    pages={3378--3384},
+  	    year={2017}
 	}
 
 
