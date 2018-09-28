@@ -69,11 +69,11 @@ Taking the "Facebook.graph.txt" as an example, its input is:
 	0 87 122 156 158 169 180 187 204 213 235 315 316
 	5
 	385 1 396 1 581 1 664 1 927 1
-    	......
+	......
 
 The options of UPPSNE are as follows:
 
-    -graph <file>
+    	-graph <file>
 		The input <file> for network embedding
 	-output <file>
 		Use <file> to save the resulting network embeddings
