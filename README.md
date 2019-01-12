@@ -18,7 +18,7 @@ The model is trained as follows:
 
 4. Repeat step 3 until a pre-defined number of iterations elapsed.
 
-Please run the "UPPSNE.sh" file to run this implementation on the Facebook network.
+Please run the "UPPSNERun.sh" file to run this implementation on the Facebook network.
 
 The format of the input network is as following:
 
